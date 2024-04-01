@@ -5,7 +5,7 @@ const io = require('socket.io')(http);
 const path = require('path');
 
 const mc = require('minecraft-protocol');
-const serverHost = 'DOOMS_DAY_REBORN.aternos.me';
+const serverHost = ' RommelOG.aternos.me';
 const serverPort = 59173;
 const botUsername = '247_Monitor';
 const reconnectInterval = 1 * 40 * 1000;
