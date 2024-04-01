@@ -6,7 +6,7 @@ const path = require('path');
 
 const mc = require('minecraft-protocol');
 const serverHost = 'DOOMS_DAY_REBORN.aternos.me';
-const serverPort = 59173;
+const serverPort = 20154;
 const botUsername = '247_Monitor';
 const reconnectInterval = 1 * 40 * 1000;
 
